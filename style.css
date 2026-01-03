@@ -1,0 +1,247 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap');
+*{
+    background-color: #0b1014;
+    color: wheat;
+    font-family: "Lexend Deca", sans-serif;
+
+    
+}
+
+.logo{
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+h1{
+    font-size: 30px;
+
+    
+    
+}
+.nav-links {
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: right;
+    gap: 40px;
+    
+}
+a{
+    text-decoration: none;
+    
+}
+.mainpart{
+    margin: 110px;
+    padding: 10px;
+   
+
+}
+h3{
+    font-size:50px;
+    position: relative;
+    top: 50px;
+    
+}
+.Full{
+    font-size: 100px;
+}
+#Dev{
+  font-family: "Montserrat", sans-serif;
+  background-color: wheat;
+  color: #0b1014;
+  padding: 3px;
+}
+.card{
+    margin: 10px;
+    padding: 10px;
+
+}
+.card img{
+    margin: 10px;
+    width: 400px;
+    height: 100%;
+    border: 3px solid wheat;
+    position: relative;
+    left: 1000px;
+    bottom: 200px;
+    border-radius: 50%;
+    bottom: 400px;
+    color: antiquewhite;
+
+    
+}
+ 
+.icon{
+    margin: 10px;
+    padding: 10px;
+    position: relative;
+
+}
+.icon i{
+    position: relative;
+    bottom: 500px;
+    width: 100px;
+    font-size: 30px;
+}
+.bu{
+    margin: 10px;
+    position: relative;
+    width: 100px;
+    bottom: 470px;
+}
+button{
+    background-color: wheat;
+    color: #0b1014;
+    font-weight: 400;
+    padding: 20px;
+    margin: 30px;
+    width: 200px;
+    margin: 5px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bolder;
+    cursor: pointer;
+    border-radius: 40px;
+    font-size: 30px
+    
+}
+.mainpart2{
+    margin: 10px;
+    padding: 10px;
+    width: 100px;
+    height: 250px;
+}
+.box{
+    margin: 60px;
+    padding: 20px;
+    height: 450px;
+    width: 350px;
+    background-color: wheat;
+    position: relative;
+    bottom: 350px;
+    left: 50px;
+    border-radius: 50px;
+}
+.box img{
+    background-color: transparent;
+    position: relative;
+    right:  30px;
+    bottom: 150px;
+    width: 400px;
+    height: 400px;
+}
+.box p{
+    background-color: transparent;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+    bottom: 300px;
+    color: #0b1014;
+    font-size: 20px;
+}
+.box span{
+    background-color: black;
+    color: white;
+}
+.box2{
+     margin: 60px;
+    padding: 20px;
+    height: 450px;
+   width: 350px;
+    background-color: wheat;
+    position: relative;
+    bottom: 900px;
+    border-radius: 50px;
+    left: 650px;
+    
+}
+.box2 img{
+     border-radius: 50%;
+     width: 140px;
+     position: relative;
+     left: 100px;
+     border: 3px solid #0b1014;
+     
+    
+}
+.box2 p{
+    background-color: transparent;
+    font-size: 20px;
+    color: #0b1014;
+    text-align: center;
+}
+.box2 span{
+    color: white;
+    background-color: black;
+}
+.box3{
+    margin: 60px;
+    padding: 20px;
+    height: 450px;
+    width: 350px;
+    background-color: wheat;
+    position: relative;
+    bottom: 1450px;
+    border-radius: 50px;
+     left: 1250px;
+
+    
+}
+.skill {
+    font-size: 50px;
+    background-color: transparent;
+    color: #192026;
+    text-align: center;
+    text-decoration: underline;
+}
+.h1{
+    background-color:transparent;
+    list-style: none;
+    color: wheat;
+    font-size: 30px;
+    color: #0b1014;
+
+}
+
+.h2{
+   background-color: transparent;
+   font-size: 30px;
+   color: #0b1014;
+   list-style: none;
+}
+.h3{
+   background-color: transparent;
+   font-size: 30px;
+   color: #0b1014;
+   list-style: none;
+}
+li p{
+    color: white;
+    font-size: 16px;
+    background-color:black;
+}
+footer{
+    width: 100px;
+    height: 150px;
+}
+footer h1{
+    color: wheat;
+    font-size: 30px;
+    position: relative;
+    font-family: "BBH Bartle", sans-serif;
+    left: 800px;
+}
+.last{
+    margin: 30px;
+    padding: 10px;
+    width: 410px;
+    
+
+}
+.last a i{
+    position: relative;
+    font-size: 30px;
+    left: 840px;
+    color: white;
+}
